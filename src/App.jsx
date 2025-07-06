@@ -68,28 +68,28 @@ function App() {
         </section>
 
         {/* About Section */}
-
-        <section id="services">
-          <Services />
-        </section>
         <section id="about">
           <About />
         </section>
-        <section id="pricing">
-          <Price />
+        <section id="services">
+          <Services />
         </section>
         <section id="portfolio">
           <Portfolio />
+        </section>
+        <section id="pricing">
+          <Price />
         </section>
 
         <section id="team">
           <Team />
         </section>
-        <section id="contact">
-          <Contact />
-        </section>
+
         <section id="blog">
           <Blog />
+        </section>
+        <section id="contact">
+          <Contact />
         </section>
       </div>
       <footer className="bg-white text-gray-800 px-8 md:px-20 pt-10 mt-16">
